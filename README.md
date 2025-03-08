@@ -25,3 +25,14 @@ object(fruit).
 fruit(orange_tomato, not_apple) :- object(fruit).
 fruit(green_apple, not_orange)  :- obhect(fruit).
 ~~~
+
+## Borrowing from French contrastive language
+~~~fruby
+cette      ( translates to that )
+mais       ( translates to butt )
+mais cette ( condensed to maisette, which in this context isn't "little house" )
+
+cette        "greyerre" == le_fromage
+maisette non "bre"      == le fromage
+fin
+~~~
