@@ -27,6 +27,8 @@ fruit(green_apple, not_orange)  :- obhect(fruit).
 ~~~
 
 ## Borrowing from French contrastive language
+This prevents butt hat contrastive language, but borrowing contrastive language from Francais.
+
 ~~~fruby
 cette      ( translates to that )
 mais       ( translates to butt )
