@@ -1,7 +1,10 @@
 # contrastive_keywords
 A proposal for contrastive language for declarative and procedural programming.
 
-## But, in this context, would be an alternative to elsif in this case.
+## Contrastive Ruby
+But in this context would replace elsif but used only once. But can be extended with But if.
+
+That would point to a specific string in a Yoda conditional.
 
 ~~~ruby
 the_fruit = "green apple"
